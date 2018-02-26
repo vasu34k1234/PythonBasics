@@ -1,1 +1,33 @@
 
+pip is a package management system used to install and manage software packages written in Python. 
+
+>>Python 2.7.9 and later (on the python2 series), and Python 3.4 and later include pip (pip3 for Python 3) by default.
+
+Command to Install a Package: pip install some-package-name
+
+To remove a Package:pip uninstall some-package-name
+
+To install Pip on your system, you can use either the source tarball or
+by using easy_install.
+>>easy_install pip
+
+Installing a package
+>>pip install sqlalchemy
+
+Removing a package
+>>pip uninstall sqlalchemy
+
+Searching a package
+>>pip search "query"
+
+To Show Information about a package:
+>>pip show packagename
+
+To List all the packages:
+>> pip list
+
+
+
+
+
+
