@@ -3,6 +3,10 @@ pip is a package management system used to install and manage software packages 
 
 >>Python 2.7.9 and later (on the python2 series), and Python 3.4 and later include pip (pip3 for Python 3) by default.
 
+Note:pip is an alternative Python package installer. It performs the same basic job as easy_install, but with some extra features. 
+It can work with version control repositories (currently only Git, Mercurial, and Bazaar repositories), logs output extensively,
+and prevents partial installs by downloading all requirements before starting installation.
+
 Command to Install a Package: pip install some-package-name
 
 To remove a Package:pip uninstall some-package-name
