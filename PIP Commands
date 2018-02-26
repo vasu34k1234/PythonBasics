@@ -18,6 +18,10 @@ by using easy_install.
 Installing a package
 >>pip install sqlalchemy
 
+Note :After installation and in case when your network is behide a http proxy you need to use ‘–proxy’ option 
+while calling pip from comand-line:
+pip install --proxy="user:password@server:port" packagename
+
 Removing a package
 >>pip uninstall sqlalchemy
 
