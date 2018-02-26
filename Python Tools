@@ -9,3 +9,25 @@ Scientific and Numeric: SciPy, Pandas, IPython
 Software Development: Buildbot, Trac, Roundup
 
 System Administration: Ansible, Salt, OpenStack
+
+---------------------------------------------------------------------------------
+
+DEVOPS TOOLS
+
+>Software and libraries for DevOps.
+>Ansible - A radically simple IT automation platform.
+>SaltStack - Infrastructure automation and management system.
+>Fabric - A simple, Pythonic tool for remote execution and deployment.
+>cuisine - Chef-like functionality for Fabric.
+>Docker Compose - Fast, isolated development environments using Docker.
+>Fabtools - Tools for writing awesome Fabric files.
+>gitapi - Pure-Python API for git.
+>GitPython - Python library used to interact with git repositories
+>gunnery - Multipurpose task execution tool for distributed systems with web-based interface.
+>hgapi - Pure-Python API for Mercurial.
+>honcho - A Python port of Foreman, a tool for managing Procfile-based applications.
+>OpenStack - Open source software for building private and public clouds.
+>pexpect - Controlling interactive programs in a pseudo-terminal like GNU expect.
+>provy - An easy-to-use provisioning system in Python.
+>psutil - A cross-platform process and system utilities module.
+>supervisor - Supervisor process control system for UNIX.
