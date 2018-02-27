@@ -34,6 +34,8 @@ To Show Information about a package:
 To List all the packages:
 >> pip list
 
+------------------------------------------------------
+For Easy install :export http_proxy=http://proxy_url:proxy_port
 
 
 
