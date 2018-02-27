@@ -1,0 +1,17 @@
+
+
+Q1)No of days difference between a=01-Feb-1998 and b=2-Feb-2018.
+
+c=a-b days?
+
+Q2)Explore all possibilities in Tuple family(dictornary,tuple,list).
+U need check using None,null values,index with negitive values,index with 0 value.
+
+Q3)Enable github plugin in pycharm and push ur code to github using Pycharm.
+
+Q4)POsix calls,Localization,i18n,dateformats and calender formart concepts.
+Types of calendars:julian calendar and gregarion calendar.
+
+For time:UTC,time formats,timezone and day light saving.
+
+Write a python program to display todays time in nanoseconds.
