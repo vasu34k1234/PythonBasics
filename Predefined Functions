@@ -1,0 +1,139 @@
+1.list.append(obj)
+Appends object obj to list
+
+2	list.count(obj)
+Returns count of how many times obj occurs in list
+
+3	list.extend(seq)
+Appends the contents of seq to list
+
+4	list.index(obj)
+Returns the lowest index in list that obj appears
+
+5	list.insert(index, obj)
+Inserts object obj into list at offset index
+
+6	list.pop(obj=list[-1])
+Removes and returns last object or obj from list
+
+7	list.remove(obj)
+Removes object obj from list
+
+8	list.reverse()
+Reverses objects of list in place
+
+9	list.sort([func])
+Sorts objects of list, use compare func if given
+
+10.cmp(tuple1, tuple2)
+Compares elements of both tuples.
+
+11	len(tuple)
+Gives the total length of the tuple.
+
+12	max(tuple)
+Returns item from the tuple with max value.
+
+13	min(tuple)
+Returns item from the tuple with min value.
+
+14	tuple(seq)
+Converts a list into tuple.
+
+15 dict.clear()
+Removes all elements of dictionary dict
+
+16	dict.copy()
+Returns a shallow copy of dictionary dict
+
+17	dict.fromkeys()
+Create a new dictionary with keys from seq and values set to value.
+
+18	dict.get(key, default=None)
+For key key, returns value or default if key not in dictionary
+
+19	dict.has_key(key)
+Returns true if key in dictionary dict, false otherwise
+
+20	dict.items()
+Returns a list of dict's (key, value) tuple pairs
+
+21	dict.keys()
+Returns list of dictionary dict's keys
+
+22	dict.setdefault(key, default=None)
+Similar to get(), but will set dict[key]=default if key is not already in dict
+
+23	dict.update(dict2)
+Adds dictionary dict2's key-values pairs to dict
+
+24	dict.values()
+Returns list of dictionary dict's values
+
+25 int(x [,base])
+
+Converts x to an integer. base specifies the base if x is a string.
+
+26 long(x [,base] )
+
+Converts x to a long integer. base specifies the base if x is a string.
+
+27 float(x)
+
+Converts x to a floating-point number.
+
+28	 complex(real [,imag])
+
+Creates a complex number.
+
+29 str(x)
+
+Converts object x to a string representation.
+
+30 repr(x)
+
+Converts object x to an expression string.
+
+31 eval(str)
+
+Evaluates a string and returns an object.
+
+32 tuple(s)
+
+Converts s to a tuple.
+
+33 list(s)
+
+Converts s to a list.
+
+34 set(s)
+
+Converts s to a set.
+
+35 dict(d)
+
+Creates a dictionary. d must be a sequence of (key,value) tuples.
+
+36 frozenset(s)
+
+Converts s to a frozen set.
+
+37 chr(x)
+
+Converts an integer to a character.
+
+38 unichr(x)
+
+Converts an integer to a Unicode character.
+
+39 ord(x)
+
+Converts a single character to its integer value.
+
+40 hex(x)
+
+Converts an integer to a hexadecimal string.
+
+41 oct(x)
+
+Converts an integer to an octal string.
